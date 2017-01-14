@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/test.js"],"names":["func","x"],"mappings":"AAAA;;AAEA,IAAIA,OAAO,SAASA,IAAT,CAAcC,CAAd,EAAiB;AAC1B,SAAOA,IAAI,CAAX;AACD,CAFD;AAGA","file":"test.js","sourcesContent":["\"use strict\";\n\nvar func = function func(x) {\n  return x + 3;\n};\n//# sourceMappingURL=test.js.map"]}
